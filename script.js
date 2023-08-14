@@ -42,4 +42,4 @@ result.innerHTML=total;
 }  
   
   
-}  
+
